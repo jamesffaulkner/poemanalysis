@@ -1,0 +1,78 @@
+<poem>
+Poem:
+
+1 Sundays too my father got up early
+2 and put his clothes on in the blueblack cold,
+3 then with cracked hands that ached
+4 from labor in the weekday weather made
+5 banked fires blaze. No one ever thanked him.
+
+
+6 I’d wake and hear the cold splintering, breaking.
+7 When the rooms were warm, he’d call,
+8 and slowly I would rise and dress,
+9 fearing the chronic angers of that house,
+
+
+10 Speaking indifferently to him,
+11 who had driven out the cold
+12 and polished my good shoes as well.
+13 What did I know, what did I know
+14 of love’s austere and lonely offices?
+</poem>
+
+<analysis>
+Analysis:
+
+
+1 'too' : Poetic word order emphasizes father's labor, even on Sunday's, a day traditionally for rest.
+2–3 'blueblack cold /…cracked hands that ached' : Innovative 'blueblack' imagery is also a transferred epithet, most properly describing the father's hands; note also the alliterative segments of b's and c's.
+4 –5 'weekday weather made / banked fires blaze' : Alliteration of initial w's and b's; three adjacent heavy stresses in 'banked fires blaze'; lines enjambed, leading into a caesura in 5
+6 'cold splintering, breaking' : striking auditory imagery
+7 'When the rooms were warm' : Alliteration of w- sounds
+9 'chronic angers of that house' : Personification
+13 'What did I know, what did I know' : Repetition underscores speaker's youthful naïvety.
+13-14 'what did I know / of love's austere and lonely offices?' : Enjambment
+14 'offices' : Used in archaic sense of “duty”
+
+Themes/Structure- The poem explores the complicated relationship between speaker and father, who provided for the family, while also abusing its other members (line 9). The speaker reflects on the sacrifices the father made that went unacknowledged. Lines are approximately 7–10 syllables in length, with no meter predominant. The poem is unrhymed, though formally resembles a sonnet, a traditional-seeming structure that perhaps nods to the traditional nuclear family that is its subject.
+</analysis>
+
+<poem>
+Poem:
+
+1 Applauding youths laughed with young prostitutes
+2 And watched her perfect, half-clothed body sway;
+3 Her voice was like the sound of blended flutes
+4 Blown by black players upon a picnic day.
+5 She sang and danced on gracefully and calm,
+6 The light gauze hanging loose about her form;
+7 To me she seemed a proudly-swaying palm
+8 Grown lovelier for passing through a storm.
+9 Upon her swarthy neck black shiny curls
+10 Luxuriant fell; and tossing coins in praise,
+11 The wine-flushed, bold-eyed boys, and even the girls,
+12 Devoured her shape with eager, passionate gaze;
+13 But looking at her falsely-smiling face,
+14 I knew her self was not in that strange place.
+</poem>
+
+<analysis>
+Analysis: 
+1 'Applauding youths…young prostitutes' : Repetition at the beginning and end of the line emphasizes the youth both of the spectators and of the performers.
+2 'her perfect, half-clothed body sway' : Synecdoche reduces the performer to her body, taking away her agency (she is 'watched').
+3 'Her voice was like the sound of blended flutes' : Simile compares the performer's voice to the sound of flutes. 
+4 'Blown by black' : Initial b- alliteration
+5 'gracefully and calm' : Inconcinnity, since grammatical parallelism requires 'calmly', though also producing the end rhymes 'calm' (5) and 'palm' (7)
+7 'To me she seemed a proudly-swaying palm'
+8 'Grown lovelier for passing through a storm' Metaphor compares the performer's life challenges to a storm.
+9–10 'black shiny curls / Luxuriant fell' : Enjambment that mirrors the curls dropping
+11 'wine-flushed' : Imagery describing the redness of the drunk spectators
+11 'bold-eyed boys' : Alliteration of initial b's
+12 'devoured her shape with eager, passionate gaze' : A metaphor that compares the spectators' consumption of the show to eating the performer. The synecdoche 'shape' reduces the performer again to her objectified body.
+13: 'falsely-smiling face' :  Alliteration of s sounds and initial f's.
+14: 'self was not in that strange place' : Alliteration of s sounds and assonance ('strange place')
+
+
+Themes/Structure- The poem explores the tension between the inward feelings and outward appearance of a performer, who is objectified by spectators according to society's standards of beauty. The poem is in the form of an English sonnet, with the stanzas consisting of three quatrains and a couplet. The rhyme scheme is ABAB CDCD EFEF GG, and the meter is iambic pentameter. The poem's scene of contemporary Harlem and popular entertainment contends against its traditional form.
+</analysis>
