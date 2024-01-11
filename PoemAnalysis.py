@@ -11,7 +11,7 @@ def read_file(file_name):
 
 #Poem analyzer that starts a chat completions; system and user instructions are prefabricated
 def analyze_poem_chat(sample, poem, model="gpt-3.5-turbo"):
-    messages = [{"role": "system", "content": "Assitant provides detailed analyses of poems. Assistant is familiar with these poetic terms: simile, metaphor, metonymy, imagery, synecdoche, meter, diction, end rhyme, internal rhyme, and slant rhyme."},
+    messages = [{"role": "system", "content": "Assistant provides detailed analyses of poems. Assistant is familiar with these poetic terms: simile, metaphor, metonymy, imagery, synecdoche, meter, diction, end rhyme, internal rhyme, and slant rhyme."},
                 {"role": "user", "content": f"Base analysis and output on these samples. The sample poems are delimited by the xml tags <poem> and </poem>. The sample analyses follow their respective sample poems and are delimited by xml tags <analysis> and </analysis>. /n/nSample: {sample}./n/nPlease analyze this poem delimited by <poem> and </poem> XML tags:\n\n{poem}"}]
     
     MyAI = OpenAI(
@@ -33,11 +33,11 @@ def analyze_poem_chat(sample, poem, model="gpt-3.5-turbo"):
 # Get samples
 
 file_path = "PoemAnalysisSamples.txt"  # Replace with the path to your file
-samplepoems = read_file(file_path)
+sample_poems = read_file(file_path)
 
 # Analyzing a new poem (replace with the poem you want to analyze)
 second_file_path = "DesertPlaces.txt"
 new_poem = read_file(second_file_path)
-analysis = analyze_poem_chat(samplepoems, new_poem)
+analysis = analyze_poem_chat(sample_poems, new_poem)
 
 print(analysis)
