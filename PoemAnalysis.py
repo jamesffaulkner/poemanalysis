@@ -1,14 +1,5 @@
 from openai import OpenAI
 
-#File reader function to extract .txt files
-def read_file(file_name):
-    try:
-        with open(file_name, 'r') as file:
-            content = file.read()
-        return content
-    except FileNotFoundError:
-        return "File not found."
-
 #Poem analyzer that starts a chat completions; system and user instructions are prefabricated
 def analyze_poem(sample, poem, model="gpt-3.5-turbo"):
     messages = [{"role": "system", "content": "Assistant provides detailed analyses of poems. Assistant is familiar with these poetic terms: simile, metaphor, metonymy, imagery, synecdoche, meter, diction, end rhyme, internal rhyme, and slant rhyme."},
@@ -28,16 +19,14 @@ def analyze_poem(sample, poem, model="gpt-3.5-turbo"):
     ai_response = response.choices[0].message.content
     return ai_response
 
-
-
 # Get samples
-
-sample_path = "PoemAnalysisSamples.txt" 
-sample_poems = read_file(sample_path)
+with open("PoemAnalysisSamples.txt", 'r') as f:
+    sample_poems = f.read()
 
 # Get a new poem to analyze
-new_poem_path = "DesertPlaces.txt" # Replace with path to your new poem file
-new_poem = read_file(new_poem_path)
+with open("DesertPlaces.txt", 'r') as f: # Replace with path to your new poem file
+    new_poem = f.read() 
+
 
 #Get and print ChatGPT response
 analysis = analyze_poem(sample_poems, new_poem)
