@@ -5,9 +5,12 @@ Project to create a tool to help students learn to analyze poetry using OpenAI A
 ## Basics
 This tool is inspired by language learning primers like [this Latin student aid](https://babel.hathitrust.org/cgi/pt?id=njp.32101015068578&seq=15) for Vergil's *Aeneid*.
 
+Educators interested in implementing this tool, or one like it, should consult [OpenAI's pricing schedule for API calls (by model)](https://openai.com/pricing). Used reasonably, this tool **should** incur costs of fractions of a cent/use. I am currently trying to work out best practice for handling API keys, whether to pass an `api_key` securely in an `.env` file or in some other way.
+
+Please feel free to contact me with questions, comments, and suggestions (email provided in GitHub profile). I want to continue to grow as an aspiring educator-as-programmer. The sequel to this project is a poem analysis ChatGPT fine-tuned on a training set that has many more examples but ones smaller in length. I hope to be able to share that training set soon.
+
 
 ## Sample Output on "Desert Places"
-
 Analysis:
 
 1 'Snow falling and night falling fast, oh, fast' : Repetition of 'falling' emphasizes the rapid pace of the snow and night.  
