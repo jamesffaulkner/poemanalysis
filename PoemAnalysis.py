@@ -41,11 +41,11 @@ def format_target(file_path):
 #Get and print ChatGPT response
 def main():
     #Get samples
-    with open("PoemAnalysisSamples.txt", 'r') as f:
+    with open("samples/PoemAnalysisSamples.txt", 'r') as f:
         sample_poems = f.read()
     
     #Get new poem to analyze
-    file_path = "DesertPlaces.txt" # Change this to the path of the poem you want to analyze
+    file_path = "samples/DesertPlaces.txt" # Change this to the path of the poem you want to analyze
     format_target(file_path)
     with open("TargetText.txt", 'r') as f:
         target_text = f.read()
