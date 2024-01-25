@@ -1,6 +1,4 @@
 <poem>
-Poem:
-
 1 Sundays too my father got up early
 2 and put his clothes on in the blueblack cold,
 3 then with cracked hands that ached
@@ -22,9 +20,6 @@ Poem:
 </poem>
 
 <analysis>
-Analysis:
-
-
 1 'too' : Poetic word order emphasizes father's labor, even on Sunday's, a day traditionally for rest.
 2–3 'blueblack cold /…cracked hands that ached' : Innovative 'blueblack' imagery is also a transferred epithet, most properly describing the father's hands; note also the alliterative segments of b's and c's.
 4 –5 'weekday weather made / banked fires blaze' : Alliteration of initial w's and b's; three adjacent heavy stresses in 'banked fires blaze'; lines enjambed, leading into a caesura in 5
@@ -39,8 +34,6 @@ Themes/Structure- The poem explores the complicated relationship between speaker
 </analysis>
 
 <poem>
-Poem:
-
 1 Applauding youths laughed with young prostitutes
 2 And watched her perfect, half-clothed body sway;
 3 Her voice was like the sound of blended flutes
@@ -58,7 +51,6 @@ Poem:
 </poem>
 
 <analysis>
-Analysis: 
 1 'Applauding youths…young prostitutes' : Repetition at the beginning and end of the line emphasizes the youth both of the spectators and of the performers.
 2 'her perfect, half-clothed body sway' : Synecdoche reduces the performer to her body, taking away her agency (she is 'watched').
 3 'Her voice was like the sound of blended flutes' : Simile compares the performer's voice to the sound of flutes. 

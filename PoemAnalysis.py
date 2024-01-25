@@ -32,8 +32,11 @@ def format_target(file_path):
     with open(file_path, 'r') as f:
         sample = f.readlines()
     with open("TargetText.txt", 'w') as f:
-        for i, line in enumerate(sample, start=1):
-            f.write(f"{i} {line}")
+        for i, line in enumerate(sample):
+            if "<poem>" in line or "</poem>" in line:
+                f.write(f"{line}")
+            else:
+                f.write(f"{i} {line}")
 
 
 #Get and print ChatGPT response
