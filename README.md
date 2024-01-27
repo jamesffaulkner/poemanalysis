@@ -9,6 +9,9 @@ Educators interested in implementing this tool, or one like it, should consult [
 
 Please feel free to contact me with questions, comments, and suggestions (email provided in GitHub profile). I want to continue to grow as an aspiring educator-as-programmer. The sequel to this project is a poem analysis ChatGPT fine-tuned on a training set that has many more examples but ones smaller in length. I hope to be able to share that training set soon.
 
+## Formatting Samples
+Copy-paste a poem into a .txt file for PoemAnalysis.py to read. Include the lines of the poem only, without title or other extraneous material. Follow the line arrangement and stanza breaks of the original poem, without identation. PoemAnalysis.py will automatically create a new .txt file (TargetText.txt) that will be formatted correctly for the LLM with leading line numbers.
+
 
 ## Sample Output on "Desert Places"
 Analysis:
